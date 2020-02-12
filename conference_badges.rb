@@ -1,5 +1,5 @@
 def badge_maker(name)
-  badge = "Hello, my name is Arel."
+  badge = "Hello, my name is #{name}."
   print badge
   badge
 end
